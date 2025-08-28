@@ -16,7 +16,7 @@ En el archivo se encuentran las siguientes variables:
 - **Faltas**: Número de faltas  
 - **G1**: Calificación primer periodo (0–20)  
 - **G2**: Calificación segundo periodo (0–20)  
-- **G3**: **Variable objetivo**, calificación final (0–20)
+- **G3**: *Variable objetivo*, calificación final (0–20)
 
 ## Pasos del anáisis
 
